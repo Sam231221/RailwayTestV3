@@ -86,13 +86,14 @@ WSGI_APPLICATION = 'tdl.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'daeboneutf0urv',
-        'USER': 'bzdltbhmouwjkp',
-        'PASSWORD': '8b75af30eda4f9ce3e1d5f2f15ce532196e11be65243589249858cfb4a72fe58',
-        'HOST': 'ec2-54-208-139-247.compute-1.amazonaws.com',
-        'PORT': '5432'
+        'NAME': 'railway',
+        'USER': 'postgres',
+        'PASSWORD': 'yomyFvNzwNzBTlwUjZRG',
+        'HOST': 'containers-us-west-122.railway.app',
+        'PORT': '7517'
     }
 }
+
 
 
 
