@@ -152,3 +152,7 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = ''
 EMAIL_HOST_PASSWORD = ''
+
+CSRF_TRUSTED_ORIGINS = [
+    'https://djangologinsystem.up.railway.app/'
+]
