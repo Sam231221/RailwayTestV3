@@ -142,5 +142,5 @@ EMAIL_HOST_USER = ''
 EMAIL_HOST_PASSWORD = ''
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://djangologinsystem.up.railway.app/'
+    'https://djangologinsystem.up.railway.app'
 ]
